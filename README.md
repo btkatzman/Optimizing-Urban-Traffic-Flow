@@ -1,1 +1,2 @@
 # Optimizing-Urban-Traffic-Flow
+This project analyzes urban traffic dynamics to optimize traffic flow and reduce congestion. Hundreds of simulations are run to collect statistics indicative of traffic flow efficiency. The model incorporates various factors such as the number of cars, roads, destinations, and traffic light synchronization to identify the best traffic management strategies. By simulating how cars navigate through intersections, the model aims to reduce travel delays, minimize traffic jams, and improve the overall efficiency of urban transportation.
